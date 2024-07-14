@@ -77,9 +77,15 @@ With these robust security measures in place, our new bank mobile app offers a s
 - Detailed account information, transaction history, and customizable alerts.
 ![Account Management](screenshots/gitaccount.png)
 
-## Download
+## Test Drive APK
 - [GitHub Repository](https://github.com/JayMwakideu/Secure_Banking_App.git)
 - Download the APK from [Google Drive](https://drive.google.com/file/d/198Cs7bvSFD-guMM0xeWTPKtvevZct3jC/view?usp=sharing)
+## Or
+<p align="center">
+
+<a target="_blank" href="https://drive.google.com/file/d/198Cs7bvSFD-guMM0xeWTPKtvevZct3jC/view?usp=sharing"><img src="https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/MISC/external/GitHub.png"></a>
+
+</p>
 
 ## Support Me
 If you like my work, consider buying me a coffee:
