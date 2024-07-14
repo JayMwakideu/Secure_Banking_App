@@ -1,4 +1,4 @@
-# 🚀Secure Bank Mobile App! 🚀
+# 🚀Secure Bank App! 🚀
 
 A cutting-edge bank mobile app, designed with the highest cybersecurity standards in mind. In today's digital age, the security of financial transactions and personal information is paramount. That's why we have implemented a comprehensive suite of security features to ensure our users can bank with confidence.
 ![Ad](screenshots/add.png)
@@ -79,7 +79,7 @@ With these robust security measures in place, our new bank mobile app offers a s
 
 ## Download
 - [GitHub Repository](https://github.com/JayMwakideu/Banking_Sacco_App.git)
-- Download the APK from [GitHub Releases](https://github.com/JayMwakideu/Banking_Sacco_App.git/releases)
+- Download the APK from [GitHub Releases](https://drive.google.com/file/d/198Cs7bvSFD-guMM0xeWTPKtvevZct3jC/view?usp=sharing)
 
 ## Support Me
 If you like my work, consider buying me a coffee:
