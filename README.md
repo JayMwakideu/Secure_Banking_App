@@ -55,7 +55,7 @@ With these robust security measures in place, our new bank mobile app offers a s
 ## Features
 
 ### Splash Screen
-![Splash Screen](path/to/splash_image.png)
+![Splash Screen](screenshots/splash.png)
 
 ### Onboarding
 - User-friendly onboarding process to guide new users through the setup and registration.
