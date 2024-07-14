@@ -1,0 +1,258 @@
+{
+    "exit_app": {
+        "app_exit": "再次向后退出"
+    },
+    "account": {
+        "account": "帐户",
+        "nearby_bank": "附近的银行",
+        "nearby_atms": "附近的自动柜员机",
+        "language": "语言",
+        "privacy_policy": "隐私政策",
+        "terms_condition": "条款与协议",
+        "customer_support": "客户支持",
+        "logout": "登出",
+        "logout_text": "您确定要退出吗？",
+        "cancel": "取消",
+        "yes": "是的",
+        "change_pin": "更改针"
+    },
+    "change_pin": {
+        "change_pin": "更改针",
+        "reset": "重置",
+        "confirm_pin": "确认PIN",
+        "confirm_pin_text": "确认您的新别针",
+        "new_pin": "新别针",
+        "enter_new_pin": "输入新的别针",
+        "current_pin": "当前销",
+        "enter_current_pin": "输入当前销"
+    },
+    "customer_support": {
+        "customer_support": "客户支持",
+        "submit": "提交",
+        "message": "信息",
+        "enter_message": "输入消息",
+        "email_address": "电子邮件地址",
+        "enter_email_address": "输入您的电子邮件地址",
+        "name": "名称",
+        "enter_name": "输入你的名字",
+        "text": "我们在这里提供帮助，所以请与我们联系。"
+    },
+    "edit_profile": {
+        "edit_profile": "编辑个人资料",
+        "update": "更新",
+        "phone_number": "电话号码",
+        "enter_phone_number": "输入你的电话号码",
+        "email_address": "电子邮件地址",
+        "enter_email_address": "输入您的电子邮件地址",
+        "name": "名称",
+        "enter_your_name": "输入你的名字",
+        "upload_image": "上传图片",
+        "remove": "消除",
+        "camera": "相机",
+        "gallery": "画廊"
+    },
+    "language": {
+        "language": "语言",
+        "update": "更新"
+    },
+    "nearby_atms": {
+        "nearby_ATMs": "附近的自动柜员机",
+        "direction": "方向"
+    },
+    "nearby_bank": {
+        "nearby_bank": "附近的银行",
+        "direction": "方向"
+    },
+    "privacy_policy": {
+        "privacy_policy": "隐私政策"
+    },
+    "terms_condition": {
+        "terms_condition": "附带条约"
+    },
+    "account_detail": {
+        "account": "帐户",
+        "CIF": "cif",
+        "IFSC": "ifsc",
+        "branch_code": "分行代码",
+        "branch_name": "分店名称",
+        "account_opening_date": "帐户开放日期",
+        "MMId": "mamid",
+        "view_statement": "查看语句",
+        "account_details": "帐户详细资料",
+        "account_number": "账号",
+        "total_balance": "总余额",
+        "current_account": "经常帐户",
+        "saving_account": "储蓄账户",
+        "salary_account": "工资帐户",
+        "NRI_account": "NRI帐户"
+    },
+    "add_deposite": {
+        "saving_account": "储蓄账户",
+        "current_account": "经常帐户",
+        "salary_account": "工资帐户",
+        "NRI_account": "NRI帐户",
+        "add_deposit": "添加存款",
+        "choose_deposit_period": "选择存款期",
+        "upload_check_image": "上传检查图像",
+        "front_side_image": "上传检查前侧图像",
+        "back_side_image": "上传检查背面图像",
+        "deposit_now": "现在存入",
+        "succeess": "成功",
+        "congratulation": "祝贺您成功存入18个月的$ 1000",
+        "okay": "好的",
+        "deposit_to": "存入",
+        "select_account": "选择帐户",
+        "your_rate": "您的费率为8％",
+        "enter_deposit_amount": "输入存款金额",
+        "amount": "数量"
+    },
+    "enter_pin": {
+        "text": "莱斯利·亚历山大进入 \n4位数销",
+        "welcome": "欢迎",
+        "enter_pin": "输入PIN",
+        "continue": "继续",
+        "please_wait": "请稍等"
+    },
+    "login": {
+        "login": "登录",
+        "text": "我们很高兴再次见到你",
+        "welcome_back": "欢迎回来",
+        "enter_number": "输入你的手机号码"
+    },
+    "otp": {
+        "resend": "重发",
+        "otp_verification": "OTP验证",
+        "verify": "核实",
+        "otp_text": "OTP已发送给您的手机号码，请在下面输入"
+    },
+    "register": {
+        "register": "登记",
+        "enter_mobile_number": "输入你的手机号码",
+        "enter_your_name": "输入你的名字",
+        "enter_your_email": "输入您的电子邮件地址"
+    },
+    "bottom_navigation": {
+        "home": "家",
+        "deposit": "订金",
+        "loans": "贷款",
+        "account": "帐户"
+    },
+    "deposit": {
+        "current_deposit": "当前存款",
+        "deposit": "订金",
+        "completed_deposit": "完成的存款",
+        "deposit_for": "存入",
+        "year": "年",
+        "deposit_to": "存入",
+        "status": "地位",
+        "rate": "速度",
+        "rate_text": "速度"
+    },
+    "education_loan": {
+        "education_loan": "教育贷款",
+        "thank_you": "感谢您提供感兴趣的教育贷款，我们将尽快联系",
+        "okay": "好的",
+        "interested": "我有兴趣",
+        "write_your_message": "写你的消息",
+        "message": "信息",
+        "enter_phone_number": "输入你的电话号码",
+        "phone_number": "电话号码",
+        "priority": "将教育\n您的首要任务"
+    },
+    "fund_transfer": {
+        "beneficiary_pay": "受益人\n付",
+        "IBAN_payment": "iban \n付款",
+        "IMPS_pay": "小鬼\n付款",
+        "saving_account": "储蓄账户",
+        "current_account": "经常帐户",
+        "salary_account": "工资帐户",
+        "NRI_account": "NRI帐户",
+        "fund_transfer": "资金转账",
+        "from_account": "从帐户",
+        "select_account": "选择帐户号",
+        "account_name": "账户持有人姓名",
+        "enter_name": "输入帐户持有人名称",
+        "to_account": "要考虑",
+        "enter_account_no": "输入帐户号",
+        "bank_name": "银行名称",
+        "enter_bank_name": "输入银行名称",
+        "IFSC_code": "IFSC代码",
+        "enter_IFSC_code": "输入IFSC代码",
+        "amount": "数量",
+        "enter_amount": "输入金额",
+        "beneficiary_info": "受益人信息",
+        "IBAN_number": "IBAN号码",
+        "beneficiary_name": "受益人名称",
+        "BIC_code": "BIC代码",
+        "beneficiary_bank": "受益银行名称",
+        "remark": "评论",
+        "beneficiary_account_number": "受益人帐号",
+        "transfer_limit": "转移限制",
+        "transfer_now": "现在转移"
+    },
+    "home": {
+        "latest_transaction": "最新交易",
+        "see_all": "查看全部",
+        "more": "更多的",
+        "services": "服务",
+        "total_balance": "总余额"
+    },
+    "loans": {
+        "loans": "贷款",
+        "period": "时期",
+        "rate": "速度",
+        "rate_text": "速度",
+        "EMI": "emi",
+        "view_statement": "查看语句",
+        "current_loans": "当前贷款",
+        "apply_now": "现在申请"
+    },
+    "loan_statement": {
+        "home_loans_statement": "房屋贷款声明",
+        "recent_transaction": "最近的交易",
+        "home_loan": "房屋贷款",
+        "period": "时期",
+        "month": "月",
+        "rate": "速度",
+        "rate_text": "速度",
+        "EMI": "emi"
+    },
+    "notification": {
+        "notification": "通知",
+        "no_new_notification": "没有新的通知",
+        "removed_notification": "从通知中删除",
+        "at": "在"
+    },
+    "onboarding": {
+        "text1": "安全快速的银行业务",
+        "text2": "明智地管理您的钱",
+        "text3": "在您周围找到银行和ATM",
+        "skip": "跳过"
+    },
+    "services": {
+        "services": "服务"
+    },
+    "statement": {
+        "current_account": "经常帐户",
+        "saving_account": "储蓄账户",
+        "salary_account": "工资帐户",
+        "NRI_account": "NRI帐户",
+        "statement": "陈述",
+        "transaction_result": "交易结果",
+        "select_date": "选择日期",
+        "go": "去"
+    },
+    "transcation": {
+        "transaction": "交易"
+    },
+    "success": {
+        "back_home": "回到家",
+        "transfer_successfully": "成功转移",
+        "at": "在",
+        "transferred_to": "转移到",
+        "from": "从",
+        "remark": "评论",
+        "amount": "数量",
+        "payment_mode": "付款方式"
+    }
+}

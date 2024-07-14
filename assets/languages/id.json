@@ -1,0 +1,258 @@
+{
+    "exit_app": {
+        "app_exit": "Tekan kembali sekali lagi untuk keluar"
+    },
+    "account": {
+        "account": "Akun",
+        "nearby_bank": "Bank terdekat",
+        "nearby_atms": "BANK terdekat",
+        "language": "Bahasa",
+        "privacy_policy": "Kebijakan pribadi",
+        "terms_condition": "Syarat & Kondisi",
+        "customer_support": "Dukungan pelanggan",
+        "logout": "Keluar",
+        "logout_text": "Anda yakin ingin logout?",
+        "cancel": "Membatalkan",
+        "yes": "Ya",
+        "change_pin": "Ganti PIN"
+    },
+    "change_pin": {
+        "change_pin": "Ganti PIN",
+        "reset": "Mengatur ulang",
+        "confirm_pin": "Konfirmasi pin",
+        "confirm_pin_text": "Konfirmasikan pin baru Anda",
+        "new_pin": "Pin baru",
+        "enter_new_pin": "Masukkan pin baru",
+        "current_pin": "PIN sekarang",
+        "enter_current_pin": "Masukkan pin saat ini"
+    },
+    "customer_support": {
+        "customer_support": "Dukungan pelanggan",
+        "submit": "Kirim",
+        "message": "Pesan",
+        "enter_message": "Masukkan pesan",
+        "email_address": "Alamat email",
+        "enter_email_address": "Masukkan alamat email Anda",
+        "name": "Nama",
+        "enter_name": "Masukkan nama Anda",
+        "text": "Kami di sini untuk membantu jadi silakan menghubungi kami."
+    },
+    "edit_profile": {
+        "edit_profile": "Sunting profil",
+        "update": "Memperbarui",
+        "phone_number": "Nomor telepon",
+        "enter_phone_number": "Masukkan nomor telepon Anda",
+        "email_address": "Alamat email",
+        "enter_email_address": "Masukkan alamat email Anda",
+        "name": "Nama",
+        "enter_your_name": "Masukkan nama Anda",
+        "upload_image": "Unggah gambar",
+        "remove": "Menghapus",
+        "camera": "Kamera",
+        "gallery": "Galeri"
+    },
+    "language": {
+        "language": "Bahasa",
+        "update": "Memperbarui"
+    },
+    "nearby_atms": {
+        "nearby_ATMs": "BANK terdekat",
+        "direction": "Arah"
+    },
+    "nearby_bank": {
+        "nearby_bank": "Bank terdekat",
+        "direction": "Arah"
+    },
+    "privacy_policy": {
+        "privacy_policy": "Kebijakan pribadi"
+    },
+    "terms_condition": {
+        "terms_condition": "Syarat dan Kondisi"
+    },
+    "account_detail": {
+        "account": "Akun",
+        "CIF": "cif",
+        "IFSC": "Ifsc",
+        "branch_code": "Kode cabang",
+        "branch_name": "Nama cabang",
+        "account_opening_date": "Tanggal Pembukaan Akun",
+        "MMId": "Mamid",
+        "view_statement": "Pernyataan Lihat",
+        "account_details": "Detail akun",
+        "account_number": "Nomor rekening",
+        "total_balance": "Total Saldo",
+        "current_account": "Akun saat ini",
+        "saving_account": "Tabungan",
+        "salary_account": "Akun gaji",
+        "NRI_account": "Akun NRI"
+    },
+    "add_deposite": {
+        "saving_account": "Tabungan",
+        "current_account": "Akun saat ini",
+        "salary_account": "Akun gaji",
+        "NRI_account": "Akun NRI",
+        "add_deposit": "Tambahkan setoran",
+        "choose_deposit_period": "Pilih periode setoran",
+        "upload_check_image": "Unggah gambar cek",
+        "front_side_image": "Unggah periksa gambar sisi depan",
+        "back_side_image": "Unggah periksa gambar sisi belakang",
+        "deposit_now": "Setoran sekarang",
+        "succeess": "Kesuksesan",
+        "congratulation": "Selamat $ 1000 Anda berhasil disetor selama 18 bulan",
+        "okay": "Oke",
+        "deposit_to": "Setoran ke",
+        "select_account": "Pilih Akun",
+        "your_rate": "Tarif Anda adalah 8%",
+        "enter_deposit_amount": "Masukkan Jumlah Setoran",
+        "amount": "Jumlah"
+    },
+    "enter_pin": {
+        "text": "Japhet Mwakideu Memasuki \n Pin 4 digit",
+        "welcome": "Selamat datang",
+        "enter_pin": "Masukkan PIN",
+        "continue": "Melanjutkan",
+        "please_wait": "Mohon tunggu"
+    },
+    "login": {
+        "login": "Gabung",
+        "text": "Kami senang bertemu denganmu lagi",
+        "welcome_back": "Selamat datang kembali",
+        "enter_number": "Masukkan nomor ponsel Anda"
+    },
+    "otp": {
+        "resend": "Ulang",
+        "otp_verification": "Verifikasi OTP",
+        "verify": "Memeriksa",
+        "otp_text": "OTP telah dikirimkan kepada Anda di nomor ponsel Anda, silakan masukkan di bawah ini"
+    },
+    "register": {
+        "register": "Daftar",
+        "enter_mobile_number": "Masukkan nomor ponsel Anda",
+        "enter_your_name": "Masukkan nama Anda",
+        "enter_your_email": "Masukkan alamat email Anda"
+    },
+    "bottom_navigation": {
+        "home": "Rumah",
+        "deposit": "Menyetorkan",
+        "loans": "Pinjaman",
+        "account": "Akun"
+    },
+    "deposit": {
+        "current_deposit": "Setoran saat ini",
+        "deposit": "Menyetorkan",
+        "completed_deposit": "Setoran selesai",
+        "deposit_for": "Setoran untuk",
+        "year": "tahun",
+        "deposit_to": "Setoran ke",
+        "status": "status",
+        "rate": "Kecepatan",
+        "rate_text": "kecepatan"
+    },
+    "education_loan": {
+        "education_loan": "Pinjaman Pendidikan",
+        "thank_you": "Terima kasih atas pinjaman pendidikan yang tertarik, kami akan segera menghubungi",
+        "okay": "Oke",
+        "interested": "saya tertarik",
+        "write_your_message": "Tulis pesan Anda",
+        "message": "Pesan",
+        "enter_phone_number": "Masukkan nomor telepon Anda",
+        "phone_number": "Nomor telepon",
+        "priority": "Buat Pendidikan\nPrioritas utama Anda"
+    },
+    "fund_transfer": {
+        "beneficiary_pay": "Penerima\nbayar",
+        "IBAN_payment": "Iban\nPembayaran ",
+        "IMPS_pay": "Imps\nbayar",
+        "saving_account": "Tabungan",
+        "current_account": "Akun saat ini",
+        "salary_account": "Akun gaji",
+        "NRI_account": "Akun NRI",
+        "fund_transfer": "Pengiriman dana",
+        "from_account": "Dari akun",
+        "select_account": "Pilih Akun No.",
+        "account_name": "Nama pemilik akun",
+        "enter_name": "Masukkan nama pemegang akun",
+        "to_account": "Ke rekening",
+        "enter_account_no": "Masukkan akun no",
+        "bank_name": "nama Bank",
+        "enter_bank_name": "Masukkan nama bank",
+        "IFSC_code": "Kode ifsc",
+        "enter_IFSC_code": "Masukkan kode IFSC",
+        "amount": "Jumlah",
+        "enter_amount": "Masukan jumlah",
+        "beneficiary_info": "Info penerima",
+        "IBAN_number": "Nomor Iban",
+        "beneficiary_name": "Nama Penerima",
+        "BIC_code": "Kode BIC",
+        "beneficiary_bank": "Nama Bank Penerima",
+        "remark": "Komentar",
+        "beneficiary_account_number": "Nomor Akun Penerima",
+        "transfer_limit": "Batas transfer",
+        "transfer_now": "Transfer sekarang"
+    },
+    "home": {
+        "latest_transaction": "Transaksi terbaru",
+        "see_all": "Lihat semua",
+        "more": "Lagi",
+        "services": "Jasa",
+        "total_balance": "Total Saldo"
+    },
+    "loans": {
+        "loans": "Pinjaman",
+        "period": "Periode",
+        "rate": "Kecepatan",
+        "rate_text": "kecepatan",
+        "EMI": "emi",
+        "view_statement": "Pernyataan Lihat",
+        "current_loans": "Pinjaman saat ini",
+        "apply_now": "Terapkan sekarang"
+    },
+    "loan_statement": {
+        "home_loans_statement": "Pernyataan pinjaman rumah",
+        "recent_transaction": "Transaksi terbaru",
+        "home_loan": "Pinjaman rumah",
+        "period": "Periode",
+        "month": "bulan",
+        "rate": "Kecepatan",
+        "rate_text": "kecepatan",
+        "EMI": "emi"
+    },
+    "notification": {
+        "notification": "Pemberitahuan",
+        "no_new_notification": "Tidak ada pemberitahuan baru",
+        "removed_notification": "Dihapus dari pemberitahuan",
+        "at": "pada"
+    },
+    "onboarding": {
+        "text1": "Operasi Perbankan yang Aman dan Cepat",
+        "text2": "Kelola uang Anda dengan bijak",
+        "text3": "Temukan bank dan atm di sekitar Anda",
+        "skip": "Melewati"
+    },
+    "services": {
+        "services": "Jasa"
+    },
+    "statement": {
+        "current_account": "Akun saat ini",
+        "saving_account": "Tabungan",
+        "salary_account": "Akun gaji",
+        "NRI_account": "Akun NRI",
+        "statement": "Penyataan",
+        "transaction_result": "Hasil transaksi",
+        "select_date": "Pilih Tanggal",
+        "go": "Pergi"
+    },
+    "transcation": {
+        "transaction": "Transaksi"
+    },
+    "success": {
+        "back_home": "Kembali ke rumah",
+        "transfer_successfully": "Transfer berhasil",
+        "at": "pada",
+        "transferred_to": "Ditransfer ke",
+        "from": "Dari",
+        "remark": "Komentar",
+        "amount": "Jumlah",
+        "payment_mode": "Mode pembayaran"
+    }
+}

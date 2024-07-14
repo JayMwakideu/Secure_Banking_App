@@ -1,0 +1,259 @@
+{
+    "exit_app": {
+        "app_exit": "Press back once again to exit"
+    },
+    "account": {
+        "account": "Account",
+        "nearby_bank": "Bank Headquaters",
+        "nearby_atms": "Bank Agents Near You",
+        "language": "Language",
+        "privacy_policy": "Privacy policy",
+        "terms_condition": "Terms & condition",
+        "customer_support": "Customer support",
+        "logout": "Logout",
+        "logout_text": "Are you sure you want to logout?",
+        "cancel": "Cancel",
+        "yes": "Yes",
+        "change_pin": "Change pin"
+    },
+    "change_pin": {
+        "change_pin": "Change pin",
+        "reset": "Reset",
+        "confirm_pin": "Confirm pin",
+        "confirm_pin_text": "Confirm your new pin",
+        "new_pin": "New pin",
+        "enter_new_pin": "Enter new pin",
+        "current_pin": "Current pin",
+        "enter_current_pin": "Enter current pin"
+    },
+    "customer_support": {
+        "customer_support": "Customer support",
+        "submit": "Submit",
+        "message": "Message",
+        "enter_message": "Enter message",
+        "email_address": "Email address",
+        "enter_email_address": "Enter your email address",
+        "name": "Name",
+        "enter_name": "Enter your name",
+        "text": "We are here to help so please get in touch with us."
+    },
+    "edit_profile": {
+        "edit_profile": "Edit profile",
+        "update": "Update",
+        "phone_number": "Phone number",
+        "enter_phone_number": "Enter your phone number",
+        "email_address": "Email address",
+        "enter_email_address": "Enter your email address",
+        "name": "Name",
+        "enter_your_name": "Enter your name",
+        "upload_image": "Upload image",
+        "remove": "Remove",
+        "camera": "Camera",
+        "gallery": "Gallery"
+    },
+    "language": {
+        "language": "Language",
+        "update": "Update"
+    },
+    "nearby_atms": {
+        "nearby_ATMs": "Bank Agents Near You",
+        "direction": "Direction"
+    },
+    "nearby_bank": {
+        "nearby_bank": "Bank Headquaters",
+        "direction": "Direction"
+    },
+    "privacy_policy": {
+        "privacy_policy": "Privacy policy"
+    },
+    "terms_condition": {
+        "terms_condition": "Terms and condition"
+    },
+    "account_detail": {
+        "account": "Account",
+        "CIF": "CIF",
+        "IFSC": "IFSC",
+        "branch_code": "Branch code",
+        "branch_name": "Branch name",
+        "account_opening_date": "Account opening date",
+        "MMId": "MMId",
+        "view_statement": "View statement",
+        "account_details": "Account details",
+        "account_number": "Account number",
+        "total_balance": "Total balance",
+        "current_account": "Current account",
+        "saving_account": "Saving account",
+        "salary_account": "Salary account",
+        "NRI_account": "NRI account"
+    },
+    "add_deposite": {
+        "saving_account": "Saving account",
+        "current_account": "Current account",
+        "salary_account": "Salary account",
+        "NRI_account": "NRI account",
+        "add_deposit": "Add deposit",
+        "choose_deposit_period": "Choose deposit period",
+        "upload_check_image": "Upload check image",
+        "front_side_image": "Upload check front side image",
+        "back_side_image": "Upload check back side image",
+        "deposit_now": "Deposit now",
+        "succeess": "Succeess",
+        "congratulation": "Congratulation your $1000 successfully deposited for 18 month",
+        "okay": "Okay",
+        "deposit_to": "Deposit to",
+        "select_account": "Select account",
+        "your_rate": "Your rate is 8%",
+        "enter_deposit_amount": "Enter deposit amount",
+        "amount": "Amount"
+    },
+    "enter_pin": {
+        "text": "Japhet Mwakideu enter \n 4 digit pin",
+        "welcome": "Welcome",
+        "enter_pin": "Enter pin",
+        "continue": "Continue",
+        "please_wait": "Please wait"
+    },
+    "login": {
+        "login": "Login",
+        "text": "We are happy to see you again",
+        "welcome_back": "Welcome Back Smart Saver",
+        "enter_number": "Enter your mobile number",
+        "enter_password": "Enter your Password"
+    },
+    "otp": {
+        "resend": "Resend",
+        "otp_verification": "OTP verification",
+        "verify": "Verify",
+        "otp_text": "Otp has been sent to you on your mobile number please enter it below"
+    },
+    "register": {
+        "register": "Register",
+        "enter_mobile_number": "Enter your mobile number",
+        "enter_your_name": "Enter your name",
+        "enter_your_email": "Enter your email address"
+    },
+    "bottom_navigation": {
+        "home": "Home",
+        "deposit": "Deposit",
+        "loans": "Loans",
+        "account": "Account"
+    },
+    "deposit": {
+        "current_deposit": "Current deposit",
+        "deposit": "Deposit",
+        "completed_deposit": "Completed deposit",
+        "deposit_for": "Deposit for",
+        "year": "year",
+        "deposit_to": "Deposit to",
+        "status": "Status",
+        "rate": "Rate",
+        "rate_text": "rate"
+    },
+    "education_loan": {
+        "education_loan": "Education loan",
+        "thank_you": "Thank you for interested education loan we will contact soon",
+        "okay": "Okay",
+        "interested": "I am interested",
+        "write_your_message": "Write your message",
+        "message": "Message",
+        "enter_phone_number": "Enter your phone number",
+        "phone_number": "Phone number",
+        "priority": "Make education \n your top priority"
+    },
+    "fund_transfer": {
+        "beneficiary_pay": "Beneficiary \n pay",
+        "IBAN_payment": "IBAN \n payment",
+        "IMPS_pay": "IMPS \n pay",
+        "saving_account": "Saving account",
+        "current_account": "Current account",
+        "salary_account": "Salary account",
+        "NRI_account": "NRI account",
+        "fund_transfer": "Fund transfer",
+        "from_account": "From account",
+        "select_account": "Select account no",
+        "account_name": "Account holder name",
+        "enter_name": "Enter account holder name",
+        "to_account": "To account",
+        "enter_account_no": "Enter account no",
+        "bank_name": "Bank name",
+        "enter_bank_name": "Enter bank name",
+        "IFSC_code": "IFSC code",
+        "enter_IFSC_code": "Enter IFSC code",
+        "amount": "Amount",
+        "enter_amount": "Enter amount",
+        "beneficiary_info": "Beneficiary info",
+        "IBAN_number": "IBAN number",
+        "beneficiary_name": "Beneficiary name",
+        "BIC_code": "BIC code",
+        "beneficiary_bank": "Beneficiary bank name",
+        "remark": "Remark",
+        "beneficiary_account_number": "Beneficiary account number",
+        "transfer_limit": "Transfer limit",
+        "transfer_now": "Transfer now"
+    },
+    "home": {
+        "latest_transaction": "Latest transaction",
+        "see_all": "See all",
+        "more": "More",
+        "services": "Services",
+        "total_balance": "Total Balance"
+    },
+    "loans": {
+        "loans": "Loans",
+        "period": "Period",
+        "rate": "Rate",
+        "rate_text": "rate",
+        "EMI": "EMI",
+        "view_statement": "View statement",
+        "current_loans": "Current loans",
+        "apply_now": "Apply now"
+    },
+    "loan_statement": {
+        "home_loans_statement": "Home loans statement",
+        "recent_transaction": "Recent transaction",
+        "home_loan": "Home loan",
+        "period": "Period",
+        "month": "month",
+        "rate": "Rate",
+        "rate_text": "rate",
+        "EMI": "EMI"
+    },
+    "notification": {
+        "notification": "Notification",
+        "no_new_notification": "No new notification",
+        "removed_notification": "Removed from notification",
+        "at": "at"
+    },
+    "onboarding": {
+        "text1": "Safe and fast bank operations",
+        "text2": "Manage your money wisely",
+        "text3": "Find bank and atm around you",
+        "skip": "Skip"
+    },
+    "services": {
+        "services": "Services"
+    },
+    "statement": {
+        "current_account": "Current account",
+        "saving_account": "Saving account",
+        "salary_account": "Salary account",
+        "NRI_account": "NRI account",
+        "statement": "Statement",
+        "transaction_result": "Transaction result",
+        "select_date": "Select date",
+        "go": "Go"
+    },
+    "transcation": {
+        "transaction": "Transaction"
+    },
+    "success": {
+        "back_home": "Back to home",
+        "transfer_successfully": "Transfer successfully",
+        "at": "at",
+        "transferred_to": "Transferred to",
+        "from": "From",
+        "remark": "Remark",
+        "amount": "Amount",
+        "payment_mode": "Payment mode"
+    }
+}

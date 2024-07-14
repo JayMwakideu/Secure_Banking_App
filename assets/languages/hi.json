@@ -1,0 +1,258 @@
+{
+    "exit_app": {
+        "app_exit": "बाहर निकलने के लिए एक बार फिर से दबाएं"
+    },
+    "account": {
+        "account": "हेतु",
+        "nearby_bank": "आस -पास का बैंक",
+        "nearby_atms": "पास के एटीएम",
+        "language": "भाषा",
+        "privacy_policy": "गोपनीयता नीति",
+        "terms_condition": "नियम व शर्त",
+        "customer_support": "ग्राहक सहेयता",
+        "logout": "लॉग आउट",
+        "logout_text": "क्या आप लॉग आउट करना चाहते हैं?",
+        "cancel": "रद्द करना",
+        "yes": "हाँ",
+        "change_pin": "पिन बदलिए"
+    },
+    "change_pin": {
+        "change_pin": "पिन बदलिए",
+        "reset": "रीसेट",
+        "confirm_pin": "पिन की पुष्टि करें",
+        "confirm_pin_text": "अपने नए पिन की पुष्टि करें",
+        "new_pin": "नया पिन",
+        "enter_new_pin": "नया पिन दर्ज करें",
+        "current_pin": "वर्तमान पिन",
+        "enter_current_pin": "वर्तमान पिन दर्ज करें"
+    },
+    "customer_support": {
+        "customer_support": "ग्राहक सहेयता",
+        "submit": "प्रस्तुत करना",
+        "message": "संदेश",
+        "enter_message": "संदेश दर्ज करें",
+        "email_address": "मेल पता",
+        "enter_email_address": "अपना ईमेल पता दर्ज करें",
+        "name": "नाम",
+        "enter_name": "अपना नाम दर्ज करें",
+        "text": "हम यहां मदद करने के लिए हैं इसलिए कृपया हमारे साथ संपर्क करें।"
+    },
+    "edit_profile": {
+        "edit_profile": "प्रोफ़ाइल संपादित करें",
+        "update": "अद्यतन",
+        "phone_number": "फ़ोन नंबर",
+        "enter_phone_number": "अपना फोन नंबर डालें",
+        "email_address": "मेल पता",
+        "enter_email_address": "अपना ईमेल पता दर्ज करें",
+        "name": "नाम",
+        "enter_your_name": "अपना नाम दर्ज करें",
+        "upload_image": "तस्वीर डालिये",
+        "remove": "निकालना",
+        "camera": "कैमरा",
+        "gallery": "गेलरी"
+    },
+    "language": {
+        "language": "भाषा",
+        "update": "अद्यतन"
+    },
+    "nearby_atms": {
+        "nearby_ATMs": "पास के एटीएम",
+        "direction": "दिशा"
+    },
+    "nearby_bank": {
+        "nearby_bank": "आस -पास का बैंक",
+        "direction": "दिशा"
+    },
+    "privacy_policy": {
+        "privacy_policy": "गोपनीयता नीति"
+    },
+    "terms_condition": {
+        "terms_condition": "नियम व शर्तें"
+    },
+    "account_detail": {
+        "account": "हेतु",
+        "CIF": "सीआईएफ",
+        "IFSC": "ifsc",
+        "branch_code": "शाखा क्र्मांक",
+        "branch_name": "शाखा का नाम",
+        "account_opening_date": "खाता खोलने की तारीख",
+        "MMId": "म्मीद",
+        "view_statement": "देखें कथन",
+        "account_details": "खाता विवरण",
+        "account_number": "खाता संख्या",
+        "total_balance": "कुल शेष",
+        "current_account": "चालू खाता",
+        "saving_account": "बचत खाता",
+        "salary_account": "वेतन खाता",
+        "NRI_account": "एनआरआई खाता"
+    },
+    "add_deposite": {
+        "saving_account": "बचत खाता",
+        "current_account": "चालू खाता",
+        "salary_account": "वेतन खाता",
+        "NRI_account": "एनआरआई खाता",
+        "add_deposit": "जमा जोड़ें",
+        "choose_deposit_period": "जमा अवधि चुनें",
+        "upload_check_image": "चेक इमेज अपलोड करें",
+        "front_side_image": "अपलोड करें फ्रंट साइड इमेज अपलोड करें",
+        "back_side_image": "चेक बैक साइड इमेज अपलोड करें",
+        "deposit_now": "अब जमा करें",
+        "succeess": "सफलता",
+        "congratulation": "आपके $ 1000 को 18 महीने के लिए सफलतापूर्वक जमा बधाई",
+        "okay": "ठीक",
+        "deposit_to": "जमा करना",
+        "select_account": "लेखा का चयन करें",
+        "your_rate": "आपकी दर 8% है",
+        "enter_deposit_amount": "जमा राशि दर्ज करें",
+        "amount": "मात्रा"
+    },
+    "enter_pin": {
+        "text": "लेस्ली अलेक्जेंडर दर्ज करें \n 4 अंक पिन",
+        "welcome": "स्वागत",
+        "enter_pin": "पिन दर्ज करें",
+        "continue": "जारी रखें",
+        "please_wait": "कृपया प्रतीक्षा कीजिये"
+    },
+    "login": {
+        "login": "लॉग इन करें",
+        "text": "हम आपको फिर से देखकर खुश हैं",
+        "welcome_back": "वापसी पर स्वागत है",
+        "enter_number": "अपना मोबाइल संख्या दर्ज करे"
+    },
+    "otp": {
+        "resend": "पुन: भेजें",
+        "otp_verification": "ओटीपी सत्यापन",
+        "verify": "सत्यापित करना",
+        "otp_text": "OTP आपको अपने मोबाइल नंबर पर भेजा गया है कृपया इसे नीचे दर्ज करें"
+    },
+    "register": {
+        "register": "पंजीकरण करवाना",
+        "enter_mobile_number": "अपना मोबाइल संख्या दर्ज करे",
+        "enter_your_name": "अपना नाम दर्ज करें",
+        "enter_your_email": "अपना ईमेल पता दर्ज करें"
+    },
+    "bottom_navigation": {
+        "home": "घर",
+        "deposit": "जमा",
+        "loans": "ऋण",
+        "account": "हेतु"
+    },
+    "deposit": {
+        "current_deposit": "चालू जमा राशि",
+        "deposit": "जमा",
+        "completed_deposit": "पूरा जमा",
+        "deposit_for": "के लिए जमा करना",
+        "year": "वर्ष",
+        "deposit_to": "जमा करना",
+        "status": "दर्जा",
+        "rate": "भाव",
+        "rate_text": "भाव"
+    },
+    "education_loan": {
+        "education_loan": "शिक्षा ऋण",
+        "thank_you": "इंटर्निंग एजुकेशन लोन के लिए धन्यवाद हम जल्द ही संपर्क करेंगे",
+        "okay": "ठीक",
+        "interested": "मुझे दिलचस्पी है",
+        "write_your_message": "अपना संदेश लिखें",
+        "message": "संदेश",
+        "enter_phone_number": "अपना फोन नंबर डालें",
+        "phone_number": "फ़ोन नंबर",
+        "priority": "शिक्षा  को अपनी\nसर्वोच्च प्राथमिकता बनाएं"
+    },
+    "fund_transfer": {
+        "beneficiary_pay": "लाभार्थी \n वेतन",
+        "IBAN_payment": "Iban \n भुगतान",
+        "IMPS_pay": "Imps \n भुगतान",
+        "saving_account": "बचत खाता",
+        "current_account": "चालू खाता",
+        "salary_account": "वेतन खाता",
+        "NRI_account": "एनआरआई खाता",
+        "fund_transfer": "फंड ट्रांसफर",
+        "from_account": "अकाउंट से",
+        "select_account": "खाता नं का चयन करें",
+        "account_name": "खाता धारक का नाम",
+        "enter_name": "खाता धारक नाम दर्ज करें",
+        "to_account": "खाते में",
+        "enter_account_no": "खाता सं।",
+        "bank_name": "बैंक का नाम",
+        "enter_bank_name": "बैंक नाम दर्ज करें",
+        "IFSC_code": "IFSC कोड",
+        "enter_IFSC_code": "IFSC कोड दर्ज करें",
+        "amount": "मात्रा",
+        "enter_amount": "राशी डालें",
+        "beneficiary_info": "लाभार्थी जानकारी",
+        "IBAN_number": "आईबैन संख्या",
+        "beneficiary_name": "लाभार्थी का नाम",
+        "BIC_code": "बीआईसी कोड",
+        "beneficiary_bank": "लाभार्थी के बैंक का नाम",
+        "remark": "टिप्पणी",
+        "beneficiary_account_number": "लाभार्थी खाता नंबर",
+        "transfer_limit": "अंतरण सीमा",
+        "transfer_now": "अब स्थानांतरित करें"
+    },
+    "home": {
+        "latest_transaction": "नवीनतम लेनदेन",
+        "see_all": "सभी देखें",
+        "more": "अधिक",
+        "services": "सेवाएं",
+        "total_balance": "कुल शेष"
+    },
+    "loans": {
+        "loans": "ऋण",
+        "period": "अवधि",
+        "rate": "भाव",
+        "rate_text": "भाव",
+        "EMI": "ईएमआई",
+        "view_statement": "देखें कथन",
+        "current_loans": "वर्तमान ऋण",
+        "apply_now": "अभी आवेदन करें"
+    },
+    "loan_statement": {
+        "home_loans_statement": "गृह ऋण विवरण",
+        "recent_transaction": "हाल ही में लेन -देन",
+        "home_loan": "गृह ऋण",
+        "period": "अवधि",
+        "month": "महीना",
+        "rate": "भाव",
+        "rate_text": "भाव",
+        "EMI": "ईएमआई"
+    },
+    "notification": {
+        "notification": "अधिसूचना",
+        "no_new_notification": "कोई नई अधिसूचना नहीं",
+        "removed_notification": "अधिसूचना से हटा दिया गया",
+        "at": "पर"
+    },
+    "onboarding": {
+        "text1": "सुरक्षित और तेज़ बैंकिंग संचालन",
+        "text2": "अपने पैसे को समझदारी से प्रबंधित करें",
+        "text3": "अपने आस -पास बैंक और एटीएम खोजें",
+        "skip": "छोड़ें"
+    },
+    "services": {
+        "services": "सेवाएं"
+    },
+    "statement": {
+        "current_account": "चालू खाता",
+        "saving_account": "बचत खाता",
+        "salary_account": "वेतन खाता",
+        "NRI_account": "एनआरआई खाता",
+        "statement": "कथन",
+        "transaction_result": "लेन -देन परिणाम",
+        "select_date": "तारीख़ चुनें",
+        "go": "जाओ"
+    },
+    "transcation": {
+        "transaction": "लेन-देन"
+    },
+    "success": {
+        "back_home": "घर वापिस जा रहा हूँ",
+        "transfer_successfully": "सफलतापूर्वक स्थानांतरण",
+        "at": "पर",
+        "transferred_to": "स्थानांतरित किया गया",
+        "from": "से",
+        "remark": "टिप्पणी",
+        "amount": "मात्रा",
+        "payment_mode": "भुगतान का प्रकार"
+    }
+}

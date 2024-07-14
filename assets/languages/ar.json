@@ -1,0 +1,258 @@
+{
+    "exit_app": {
+        "app_exit": "اضغط مرة أخرى للخروج"
+    },
+    "account": {
+        "account": "حساب",
+        "nearby_bank": "البنك القريب",
+        "nearby_atms": "أجهزة الصراف الآلي القريبة",
+        "language": "لغة",
+        "privacy_policy": "سياسة الخصوصية",
+        "terms_condition": "الشروط والشرط",
+        "customer_support": "دعم العملاء",
+        "logout": "تسجيل خروج",
+        "logout_text": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+        "cancel": "يلغي",
+        "yes": "نعم",
+        "change_pin": "تغيير دبوس"
+    },
+    "change_pin": {
+        "change_pin": "تغيير دبوس",
+        "reset": "إعادة ضبط",
+        "confirm_pin": "تأكيد PIN",
+        "confirm_pin_text": "تأكد من دبوسك الجديد",
+        "new_pin": "دبوس جديد",
+        "enter_new_pin": "أدخل دبوس جديد",
+        "current_pin": "الرقم السري الحالي",
+        "enter_current_pin": "أدخل الدبوس الحالي"
+    },
+    "customer_support": {
+        "customer_support": "دعم العملاء",
+        "submit": "إرسال",
+        "message": "رسالة",
+        "enter_message": "أدخل رسالة",
+        "email_address": "عنوان البريد الإلكتروني",
+        "enter_email_address": "أدخل عنوان بريدك الالكتروني",
+        "name": "اسم",
+        "enter_name": "أدخل أسمك",
+        "text": "نحن هنا للمساعدة لذا يرجى الاتصال بنا."
+    },
+    "edit_profile": {
+        "edit_profile": "تعديل الملف الشخصي",
+        "update": "تحديث",
+        "phone_number": "رقم الهاتف",
+        "enter_phone_number": "أدخل رقم هاتفك",
+        "email_address": "عنوان البريد الإلكتروني",
+        "enter_email_address": "أدخل عنوان بريدك الالكتروني",
+        "name": "اسم",
+        "enter_your_name": "أدخل أسمك",
+        "upload_image": "تحميل الصور",
+        "remove": "يزيل",
+        "camera": "كاميرا",
+        "gallery": "صالة عرض"
+    },
+    "language": {
+        "language": "لغة",
+        "update": "تحديث"
+    },
+    "nearby_atms": {
+        "nearby_ATMs": "أجهزة الصراف الآلي القريبة",
+        "direction": "اتجاه"
+    },
+    "nearby_bank": {
+        "nearby_bank": "البنك القريب",
+        "direction": "اتجاه"
+    },
+    "privacy_policy": {
+        "privacy_policy": "سياسة الخصوصية"
+    },
+    "terms_condition": {
+        "terms_condition": "أحكام وشروط"
+    },
+    "account_detail": {
+        "account": "حساب",
+        "CIF": "cif",
+        "IFSC": "ifsc",
+        "branch_code": "رمز الفرع",
+        "branch_name": "اسم الفرع",
+        "account_opening_date": "تاريخ فتح الحساب",
+        "MMId": "مامد",
+        "view_statement": "عرض بيان",
+        "account_details": "تفاصيل الحساب",
+        "account_number": "رقم حساب",
+        "total_balance": "التوازن الكلي",
+        "current_account": "الحساب الحالي",
+        "saving_account": "حفظ الحساب",
+        "salary_account": "حساب الراتب",
+        "NRI_account": "حساب NRI"
+    },
+    "add_deposite": {
+        "saving_account": "حفظ الحساب",
+        "current_account": "الحساب الحالي",
+        "salary_account": "حساب الراتب",
+        "NRI_account": "حساب NRI",
+        "add_deposit": "أضف الإيداع",
+        "choose_deposit_period": "اختر فترة الإيداع",
+        "upload_check_image": "تحميل صورة التحقق",
+        "front_side_image": "تحميل صورة الجانب الأمامي",
+        "back_side_image": "التحميل تحقق من الصورة الجانبية الخلفية",
+        "deposit_now": "إيداع الآن",
+        "succeess": "النجاح",
+        "congratulation": "تهنئة 1000 دولار تم إيداعها بنجاح لمدة 18 شهرًا",
+        "okay": "تمام",
+        "deposit_to": "إيداع ل",
+        "select_account": "حدد حساب",
+        "your_rate": "معدلك 8 ٪",
+        "enter_deposit_amount": "أدخل مبلغ الإيداع",
+        "amount": "مقدار"
+    },
+    "enter_pin": {
+        "text": "ليزلي ألكساندر إدخال \n 4 أرقام دبوس",
+        "welcome": "أهلا بك",
+        "enter_pin": "أدخل دبوس",
+        "continue": "يكمل",
+        "please_wait": "أرجو الإنتظار"
+    },
+    "login": {
+        "login": "تسجيل الدخول",
+        "text": "نحن سعداء أن نراكم مرة أخرى",
+        "welcome_back": "مرحبًا بعودتك",
+        "enter_number": "أدخل رقم هاتفك المحمول"
+    },
+    "otp": {
+        "resend": "إعادة إرسال",
+        "otp_verification": "التحقق من OTP",
+        "verify": "تحقق",
+        "otp_text": "تم إرسال OTP إليك على رقم هاتفك المحمول ، الرجاء إدخاله أدناه"
+    },
+    "register": {
+        "register": "يسجل",
+        "enter_mobile_number": "أدخل رقم هاتفك المحمول",
+        "enter_your_name": "أدخل أسمك",
+        "enter_your_email": "أدخل عنوان بريدك الالكتروني"
+    },
+    "bottom_navigation": {
+        "home": "مسكن",
+        "deposit": "إيداع",
+        "loans": "القروض",
+        "account": "حساب"
+    },
+    "deposit": {
+        "current_deposit": "الإيداع الحالي",
+        "deposit": "إيداع",
+        "completed_deposit": "إيداع مكتمل",
+        "deposit_for": "إيداع",
+        "year": "عام",
+        "deposit_to": "إيداع ل",
+        "status": "حالة",
+        "rate": "معدل",
+        "rate_text": "معدل"
+    },
+    "education_loan": {
+        "education_loan": "قرض التعليم",
+        "thank_you": "شكرًا لك على قرض التعليم المهتمين سنقوم بالاتصال قريبًا",
+        "okay": "تمام",
+        "interested": "أنا مهتم",
+        "write_your_message": "اكتب رسالتك",
+        "message": "رسالة",
+        "enter_phone_number": "أدخل رقم هاتفك",
+        "phone_number": "رقم الهاتف",
+        "priority": "اجعل التعليم \n أولويتك الأعلى"
+    },
+    "fund_transfer": {
+        "beneficiary_pay": "المستفيد \n الدفع",
+        "IBAN_payment": "iban \nدفع ",
+        "IMPS_pay": "imps \n pay",
+        "saving_account": "حفظ الحساب",
+        "current_account": "الحساب الحالي",
+        "salary_account": "حساب الراتب",
+        "NRI_account": "حساب NRI",
+        "fund_transfer": "تحويل الأموال",
+        "from_account": "من حساب",
+        "select_account": "حدد الحساب لا",
+        "account_name": "اسم صاحب الحساب",
+        "enter_name": "أدخل اسم صاحب الحساب",
+        "to_account": "لحساب",
+        "enter_account_no": "أدخل الحساب لا",
+        "bank_name": "اسم البنك",
+        "enter_bank_name": "أدخل اسم البنك",
+        "IFSC_code": "رمز IFSC",
+        "enter_IFSC_code": "أدخل رمز IFSC",
+        "amount": "مقدار",
+        "enter_amount": "أدخل المبلغ",
+        "beneficiary_info": "معلومات المستفيدة",
+        "IBAN_number": "رقم IBAN",
+        "beneficiary_name": "أسم المستفيد",
+        "BIC_code": "رمز BIC",
+        "beneficiary_bank": "المستفيد اسم البنك",
+        "remark": "ملاحظة",
+        "beneficiary_account_number": "رقم حساب المستفيد",
+        "transfer_limit": "حد النقل",
+        "transfer_now": "نقل الآن"
+    },
+    "home": {
+        "latest_transaction": "أحدث معاملة",
+        "see_all": "اظهار الكل",
+        "more": "أكثر",
+        "services": "خدمات",
+        "total_balance": "التوازن الكلي"
+    },
+    "loans": {
+        "loans": "القروض",
+        "period": "فترة",
+        "rate": "معدل",
+        "rate_text": "معدل",
+        "EMI": "emi",
+        "view_statement": "عرض بيان",
+        "current_loans": "القروض الحالية",
+        "apply_now": "قدم الآن"
+    },
+    "loan_statement": {
+        "home_loans_statement": "بيان القروض المنزلية",
+        "recent_transaction": "المعاملة الأخيرة",
+        "home_loan": "قرض المنزل",
+        "period": "فترة",
+        "month": "شهر",
+        "rate": "معدل",
+        "rate_text": "معدل",
+        "EMI": "emi"
+    },
+    "notification": {
+        "notification": "إشعار",
+        "no_new_notification": "لا يوجد إشعار جديد",
+        "removed_notification": "تمت إزالته من الإخطار",
+        "at": "في"
+    },
+    "onboarding": {
+        "text1": "العمليات المصرفية الآمنة والسريعة",
+        "text2": "إدارة أموالك بحكمة",
+        "text3": "ابحث عن البنك وأجهزة الصراف الآلي من حولك",
+        "skip": "تخطى"
+    },
+    "services": {
+        "services": "خدمات"
+    },
+    "statement": {
+        "current_account": "الحساب الحالي",
+        "saving_account": "حفظ الحساب",
+        "salary_account": "حساب الراتب",
+        "NRI_account": "حساب NRI",
+        "statement": "بيان",
+        "transaction_result": "نتيجة المعاملة",
+        "select_date": "حدد تاريخ",
+        "go": "اذهب"
+    },
+    "transcation": {
+        "transaction": "عملية"
+    },
+    "success": {
+        "back_home": "العودة إلى المنزل",
+        "transfer_successfully": "النقل بنجاح",
+        "at": "في",
+        "transferred_to": "نقل إلى",
+        "from": "من",
+        "remark": "ملاحظة",
+        "amount": "مقدار",
+        "payment_mode": "طريقة الدفع"
+    }
+}
