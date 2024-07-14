@@ -59,23 +59,23 @@ With these robust security measures in place, our new bank mobile app offers a s
 
 ### Onboarding
 - User-friendly onboarding process to guide new users through the setup and registration.
-![Onboarding](path/to/splash_image.png)
+![Onboarding](screenshots/gitonboarding.png)
 
 ### Home Page
 - Overview of account balance, recent transactions, and quick access to main features.
-![Home Page](path/to/splash_image.png)
+![Home Page](screenshots/githome.png)
 
 ### Loans
 - Easy application process for personal and business loans with real-time status updates.
-![Loans](path/to/splash_image.png)
+![Loans](screenshots/gitloan.png)
 
 ### Deposit
 - Securely deposit checks using the mobile camera and manage deposit accounts efficiently.
-![Deposit](path/to/splash_image.png)
+![Deposit](screenshots/gitdeposit.png)
 
 ### Account Management
 - Detailed account information, transaction history, and customizable alerts.
-![Account Management](path/to/splash_image.png)
+![Account Management](screenshots/gitaccount.png)
 
 ## Download
 - [GitHub Repository](https://github.com/your-repo)
