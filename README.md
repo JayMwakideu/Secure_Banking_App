@@ -80,5 +80,49 @@ With these robust security measures in place, our new bank mobile app offers a s
 - [GitHub Repository](https://github.com/your-repo)
 - Download the APK from [GitHub Releases](https://github.com/your-repo/releases)
 
+## Support Me
+If you like my work, consider buying me a coffee:
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mwakideu)
+
+## License
+
+| Component | Licensing |
+|-----------|-----------|
+| Mobile App | MIT License |
+
+
+MIT License
+
+© 2024 Jaylan Solutions
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+## Acknowledgments
+
+I want to express my sincere gratitude to Nusantara and Universitas Indonesia - Japan International Cooperation Agency (UI-JICA Project) for their T-Gaurd development. This development has led to further developments of the unified solution.
+
+## Contributors
+- Jaylan Solutions
+- Japhet Mwakideu
+
 I'm incredibly proud of the team's hard work and dedication to bringing this project to life. Together, we're setting new standards for cybersecurity in mobile banking. 💪
 
