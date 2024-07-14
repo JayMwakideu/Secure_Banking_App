@@ -78,8 +78,8 @@ With these robust security measures in place, our new bank mobile app offers a s
 ![Account Management](screenshots/gitaccount.png)
 
 ## Download
-- [GitHub Repository](https://github.com/your-repo)
-- Download the APK from [GitHub Releases](https://github.com/your-repo/releases)
+- [GitHub Repository](https://github.com/JayMwakideu/Banking_Sacco_App.git)
+- Download the APK from [GitHub Releases](https://github.com/JayMwakideu/Banking_Sacco_App.git/releases)
 
 ## Support Me
 If you like my work, consider buying me a coffee:
