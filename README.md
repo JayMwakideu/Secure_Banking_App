@@ -1,7 +1,7 @@
 # 🚀Secure Bank Mobile App! 🚀
 
 A cutting-edge bank mobile app, designed with the highest cybersecurity standards in mind. In today's digital age, the security of financial transactions and personal information is paramount. That's why we have implemented a comprehensive suite of security features to ensure our users can bank with confidence.
-![Splash Screen](screenshots/add.png)
+![Ad](screenshots/add.png)
 
 ## 🔐 Key Security Features Implemented:
 
