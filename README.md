@@ -119,7 +119,7 @@ SOFTWARE.
 
 ## Acknowledgments
 
-I want to express my sincere gratitude to Nusantara and Universitas Indonesia - Japan International Cooperation Agency (UI-JICA Project) for their T-Gaurd development. This development has led to further developments of the unified solution.
+I want to express my sincere gratitude to 
 
 ## Contributors
 - Jaylan Solutions
